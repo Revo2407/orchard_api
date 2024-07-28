@@ -24,3 +24,4 @@ ENV AERO_AUTH your_actual_token
 
 # Run the application
 CMD ["python", "run.py"]
+
